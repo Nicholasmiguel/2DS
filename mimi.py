@@ -1,0 +1,5 @@
+distancia = float(input('digite em km'))
+velocidade_media = float(input('digite'))
+
+tempo = distancia/velocidade_media
+print (tempo)
