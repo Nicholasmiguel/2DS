@@ -1,4 +1,4 @@
-endas_mensais = [ 120, 130, 140, 170, 160, 150, 140, 130, 120, 110]
+vendas_mensais = [ 120, 130, 140, 170, 160, 150, 140, 130, 120, 110]
 
 def calcular_total_vendas(vendas):
     return sim(vendas) / len(vendas):
@@ -10,7 +10,7 @@ def calcular_media_vendas(vendas):
 
 #calculado
 total_vendas = calcular_total_vendas(vendas_mensais)
-media_vendas = calcular_media_vendas(vendas mensais)
+media_vendas = calcular_media_vendas(vendas_mensais)
 mes_maximo, max_venda = determinar mes_maximo_vendas(vendas_mensais)
 
 #resultado
