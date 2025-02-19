@@ -1,0 +1,40 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação</title>
+    <link rel="stylesheet" href="mimi.css">
+</head>
+<body>
+    <h1>Nicholas Miguel Nascimento Da Silva Pereira </h1>
+    <h2>Sobre mim</h2>
+    <p> olá me chamo Nicholas miguel, tenho 17 anos, atualmente estou concluindo o ensino médio, estou no ultimo ano e cursando curso técnico de desenvolvimento de sistemas, no momento estou só estudando mesmo, trabalhando informalmente de final de semana com meu tio, entregando cestas básicas para os beneficiados.
+        sou nascido e criado em Itaquera Zona Leste De São Paulo, moro no bairro da vila progresso, sou de uma familia humilde sem muitos luxos!, sou um menino muito hiperativo, gosto de jogar bola,conversar, escutar músicas, viajar com a minha família, conhecer pessoas novas e ficar com as novinha né segredo kkkkk, atualmente estou solteiro, nas pistas mesmo kkkkk
+        sou um menino bem firmeza quem conhece sabe!!, tenho alguns sonhos que quero muito realizar que é conseguir conhecer a cidade da frança e disney, conhecer também um dos melhores jogadores do mundo que é o neymar, e conseguir realizar o meu sonho desde de pivete que é ser jogador de futebol profissional, e dar uma condição melhor de vida para a minha família, e se nao der certo ser jogador de futebol quero fazer faculdade de jornalismo esportivo, que é um desejo muito grande que tenho de conseguir ingressar nessa profissão que eu gosto tanto que é de esportes.
+        e por fim estudar bastante esse ano para quando terminar a escola ingressar na faculdade e trabalhar para ter minha própria casa e achar uma mulher que feche 10/10 comigo para criar uma família e ser feliz no simples com jesus!!, sem muitos luxos mas ter o essencial e não passar vontade.
+    </p>
+    <h3>contatos 11 958763605
+        Email: Nicholasmiguel2007@gmail.com
+        @Nicholas_bekeer011 
+    </h3>
+</body>
+</html>
+
+
+
+
+body{
+   background-color: rgb(255, 255, 255);
+   text-align: center;
+
+}
+h1{
+    background-color: rgb(21, 159, 238) ;
+}
+h2{
+    background-color: rgb(255, 255, 255);
+}
+h3{
+    background-color: rgb(255, 255, 255);
+}
